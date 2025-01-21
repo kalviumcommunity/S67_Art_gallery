@@ -1,0 +1,22 @@
+{
+  "name": "s67_art_gallery",
+  "version": "1.0.0",
+  "description": "This project aims to create an interactive online platform that functions as a digital art gallery. Users will be able to browse, view, and engage with various forms of digital artwork, including paintings, illustrations, animations, and mixed media. The gallery will serve as a space for both amateur and professional artists to showcase their work, while visitors can explore art by categories, artists, or themes. The platform will also include features like artwork descriptions, artist profiles, and the ability to leave comments or ratings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S67_Art_gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S67_Art_gallery/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S67_Art_gallery#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
