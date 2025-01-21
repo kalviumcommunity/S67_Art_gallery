@@ -1,4 +1,3 @@
-# Digital Art Gallery
 
 ## Project Overview:
 This project aims to create an interactive online platform that functions as a digital art gallery. Users will be able to browse, view, and engage with various forms of digital artwork, including paintings, illustrations, animations, and mixed media. The gallery will serve as a space for both amateur and professional artists to showcase their work, while visitors can explore art by categories, artists, or themes. The platform will also include features like artwork descriptions, artist profiles, and the ability to leave comments or ratings.
