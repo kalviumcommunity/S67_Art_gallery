@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kalviumcommunity/S67_Art_gallery#readme",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.2"
   }
 }
