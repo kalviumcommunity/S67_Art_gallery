@@ -35,3 +35,6 @@ This project aims to create an interactive online platform that functions as a d
 
 ## Why This Project:
 I’ve chosen to create a Digital Art Gallery because it merges technology with creative expression, and it’s an exciting opportunity to showcase both my web development skills and an appreciation for art. This project allows me to work on both frontend and backend development, integrate various modern technologies, and learn how to implement interactive and user-centric features. Additionally, it could provide a valuable platform for emerging artists, which makes it both a rewarding and impactful project. By working on this, I’ll enhance my skills in e-commerce, user experience design, and real-time features, all of which are crucial in today’s web development landscape.
+
+#### digital art gallery development link:
+https://s67artgallery-c577.vercel.app/
